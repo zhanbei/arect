@@ -1,6 +1,6 @@
 {
   "name": "arect",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A react eco-world library, which imports React from \"arect\" and loads React from global \"window\" or real \"react\" module following your will.",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 //
 
-const load = require('./local');
+const load = require('./loader');
 
 const React = load('react', 'React');
 const ReactDom = load('react-dom', 'ReactDOM');
