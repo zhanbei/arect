@@ -1,7 +1,9 @@
 //
 
-const React = window['React'];
-const ReactDom = window['ReactDOM'];
+const load = require('./local');
+
+const React = load('react', 'React');
+const ReactDom = load('react-dom', 'ReactDOM');
 React.React = React;
 React.ReactDom = ReactDom;
 React.ReactDOM = ReactDom;

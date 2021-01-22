@@ -1,7 +1,7 @@
 {
-  "name": "areact",
-  "version": "0.0.1",
-  "description": "A react eco-world library, which imports React from 'areact' and loads real React from window.",
+  "name": "arect",
+  "version": "0.0.2",
+  "description": "A react eco-world library, which imports React from \"arect\" and loads React from global \"window\" or real \"react\" module following your will.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,13 +9,13 @@
   "keywords": [
     "React"
   ],
-  "homepage": "https://github.com/zhanbei/areact#readme",
+  "homepage": "https://github.com/zhanbei/arect#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhanbei/areact.git"
+    "url": "git+https://github.com/zhanbei/arect.git"
   },
   "bugs": {
-    "url": "https://github.com/zhanbei/areact/issues"
+    "url": "https://github.com/zhanbei/arect/issues"
   },
   "author": "Fisher",
   "license": "ISC"

@@ -7,7 +7,7 @@ export type ReactEventHandler = React.ReactEventHandler;
 export * from 'react-dom';
 export * as ReactDom from 'react-dom';
 
-export type ReactDOM = ReactDom;
+export const ReactDOM = ReactDom;
 export default React;
 
 export type ReactView<Props> = React.FC<Props>;
